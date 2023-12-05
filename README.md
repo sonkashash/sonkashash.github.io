@@ -1,4 +1,4 @@
-###Here is education project(electronics shop) with two pages
+## Here is education project(electronics shop) with two pages
 
 **Stack**
 + HTML
